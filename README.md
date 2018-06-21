@@ -41,7 +41,9 @@ Propostas:
 · o usuário poderá acompanhar pelo app as solicitações abertas por ele.
 
 Pitch: https://github.com/mabel42/Movi/blob/master/Pitch.pptx
+
 Conceito: https://github.com/mabel42/Movi/blob/master/conceito.xmind
+
 Protocolo de atendimento: https://github.com/mabel42/Movi/blob/master/protocolo%20de%20atendimento.xmind
 
 
